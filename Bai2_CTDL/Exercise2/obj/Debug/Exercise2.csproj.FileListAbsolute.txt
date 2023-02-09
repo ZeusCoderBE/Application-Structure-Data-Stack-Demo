@@ -1,0 +1,24 @@
+C:\Users\Administrator\source\repos\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Administrator\source\repos\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Administrator\source\repos\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Administrator\source\repos\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Administrator\source\repos\Exercise2\obj\Debug\Exercise2.pdb
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi_Do_An_CTDL\Bai2_CTDL\Exercise2\bin\Debug\Exercise2.exe.config
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi_Do_An_CTDL\Bai2_CTDL\Exercise2\bin\Debug\Exercise2.exe
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi_Do_An_CTDL\Bai2_CTDL\Exercise2\bin\Debug\Exercise2.pdb
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi_Do_An_CTDL\Bai2_CTDL\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi_Do_An_CTDL\Bai2_CTDL\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi_Do_An_CTDL\Bai2_CTDL\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi_Do_An_CTDL\Bai2_CTDL\Exercise2\obj\Debug\Exercise2.exe
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi_Do_An_CTDL\Bai2_CTDL\Exercise2\obj\Debug\Exercise2.pdb
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi\Bai2_CTDL\Exercise2\bin\Debug\Exercise2.exe.config
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi\Bai2_CTDL\Exercise2\bin\Debug\Exercise2.exe
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi\Bai2_CTDL\Exercise2\bin\Debug\Exercise2.pdb
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi\Bai2_CTDL\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi\Bai2_CTDL\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi\Bai2_CTDL\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi\Bai2_CTDL\Exercise2\obj\Debug\Exercise2.exe
+D:\21133036 Dang Nguyen Quang Huy and 21133068 Dai Trieu Phi\Bai2_CTDL\Exercise2\obj\Debug\Exercise2.pdb
